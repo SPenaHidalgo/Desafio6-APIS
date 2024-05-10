@@ -1,8 +1,8 @@
-Índice
-Descripción
-Tecnologías Utilizadas
-Funcionalidad
-Uso de la página
+*Índice*
+- Descripción
+- Tecnologías Utilizadas
+- Funcionalidad
+- Uso de la página
 
 Descripción
 El Conversor de Monedas consiste en un trabajo realizado con la finalidad de implementar APIS. Se enmarca dentro del desafío 6 del Módulo 3 del BootCamps de DesafioLatam
