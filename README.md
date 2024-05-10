@@ -5,7 +5,7 @@
 - Uso de la página
 
 Descripción
-El Conversor de Monedas consiste en un trabajo realizado con la finalidad de implementar APIS. Se enmarca dentro del desafío 6 del Módulo 3 del BootCamps de DesafioLatam
+  El Conversor de Monedas consiste en un trabajo realizado con la finalidad de implementar APIS. Se enmarca dentro del desafío 6 del Módulo 3 del BootCamps de DesafioLatam
 
 Tecnologías Utilizadas
 - HTML
@@ -14,7 +14,7 @@ Tecnologías Utilizadas
 Librería externa: https://mindicador.cl/api/
 
 Funcionalidad
-El conversor de monedas nos permite convertir monedas y diferentes indicadores económicos de carácter nacional a CLP
+  El conversor de monedas nos permite convertir monedas y diferentes indicadores económicos de carácter nacional a CLP
 
 Uso de la página
 1. Se debe ingresar la cantidad que se desea convertir en el Input
